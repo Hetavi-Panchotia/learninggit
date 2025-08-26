@@ -1,2 +1,4 @@
 made new repo and now adding first file
 undoing this commit
+writing this one 
+added
