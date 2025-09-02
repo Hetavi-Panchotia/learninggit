@@ -1,7 +1,0 @@
-hello
-hey
-hi
-creating conflicts intentionally
-#kaleshi 1 okayyy
-adding this without pulling from main
-conflict 2
